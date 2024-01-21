@@ -1,0 +1,4 @@
+Compilation and executeion:
+gfortran -o data_table data_table.f95
+./data_table
+gfortran main.f90 && ./a.out 12000 0.1 1e-9
